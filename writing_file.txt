@@ -1,0 +1,3 @@
+Hi! Welcome to demofile.txt
+This file is tested
+Bad Luck!
